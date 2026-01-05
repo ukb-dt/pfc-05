@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-## Preface
+## [Preface](https://ukb-dt.github.io/short-sellers-00/)
 
 This repository is an experiment in **seeing clearly under constraint**.
 
