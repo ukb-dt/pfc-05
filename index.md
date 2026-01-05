@@ -300,7 +300,7 @@ The document references "second derivatives" and a "Claim → Validation → Adv
 - **Executive override** = high second derivative (control signal must *accelerate* against momentum)
 - **Glucose depletion** = loss of control authority → system reverts to lower-order dynamics
 
-If `$e = mc^2$` in `pfc-00` is meant as "will requires power to exert control," then your table **is the expansion** of that equation:
+If $e = mc^2$ in `pfc-00` is meant as "will requires power to exert control," then your table **is the expansion** of that equation:
 
 $$
 \text{Control cost} \propto \frac{d^2(\text{behavior})}{dt^2}
