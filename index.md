@@ -145,7 +145,7 @@ This is where the “100×” intuition lives.
 So the ratio is:
 
 $$
-\frac{\text{Energy cost of exerting control}}{\text{Energy cost of letting default run}} ;;\approx;; 10^1–10^2
+\frac{\text{Energy cost of exerting control}}{\text{Energy cost of letting default run}} \approx 10^1–10^2
 $$
 
 That’s the **100×**.
