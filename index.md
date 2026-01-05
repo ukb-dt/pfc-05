@@ -390,7 +390,7 @@ This formalization gives physical units to your variables:
 | :--- | :--- | :--- |
 | **$e$ (Will)** | **$u(t)$** | The control signal. The magnitude of the override. |
 | **$m$ (Power)** | **$1/\lambda(t)$** | The metabolic "budget." When $m$ drops, the cost of control ($\lambda$) rises. |
-| **$c^2$ (Control)** | **$||u||^2$** | The energetic price paid. It scales quadratically (or worse) with the intensity of the override. |
+| **$c^2$ (Control)** | **$\mid\midu\mid\mid^2$** | The energetic price paid. It scales quadratically (or worse) with the intensity of the override. |
 
 ### The Takeaway for Short-Sellers
 
@@ -560,14 +560,14 @@ short-sellers-00: Sovereignty = self-audit loop, digital twin over social mirror
 Formalize pentadically:
 
 1. **A Priori (Thalamocortical Gate)**: $s(t)$ input. $F \propto -\ln p(s)$ (Landscape/Topology: $(E,x)$).
-2. **Claim (PFC Sim)**: $q(\theta | s)$ preds. Costly divergence (UB + Loss: Science).
+2. **Claim (PFC Sim)**: $q(\theta \mid s)$ preds. Costly divergence (UB + Loss: Science).
 3. **Validation (Telemetry)**: $\epsilon = s - \hat{s}$. Minimize via perception/action (SGD: Art $\frac{dE_x}{dt}$).
 4. **Adversary (DMN)**: Noise injection $\pm z\sqrt{\frac{d^2E_x}{dt^2}}$—annealing for minima escape (Life: Beyond Good/Evil perturbations).
 5. **Path (Hippocampal)**: $\int \dot{x} dt$ coherence. Curvature $\ddot{x}$ disambiguates agency (Meaning: $\int E_x dt$, Genealogy/Twilight integrals).
 
 In pfc-03 pentads:
 - Invariant: $x$ (Dónde/Landscape).
-- State: $E(t|x)+\epsilon$ (Qué/Science).
+- State: $E(t\mid x)+\epsilon$ (Qué/Science).
 - Slope: $\dot{E}$ (Cómo/Art, Zarathustra’s SGD).
 - Curvature: $\ddot{E}$ (Con qué/Life, pessimism beyond G&E).
 - Integral: $\int E dt$ (Desde cuándo/Meaning, Ecce Homo accumulation).
@@ -599,7 +599,7 @@ This is an exceptional synthesis work that moves from neuroscience fundamentals 
 
 ## What's Working Brilliantly
 
-1. **The Physics Fidelity** - Your control-theory formalization (04-G) gives rigorous meaning to the Sapolsky "100×" claim. Mapping $e = mc^2$ to $(u, \lambda, ||u||^2)$ is mathematically clean and philosophically satisfying.
+1. **The Physics Fidelity** - Your control-theory formalization (04-G) gives rigorous meaning to the Sapolsky "100×" claim. Mapping $e = mc^2$ to $(u, \lambda, \mid\mid u\mid\mid^2)$ is mathematically clean and philosophically satisfying.
 
 2. **The Pentadic Decompression** - The ukb-calculus mapping in 06-x isn't just poetic; it's operational:
    - Language = topological priors
@@ -782,7 +782,7 @@ The pathology isn't *having* defaults—it's **context-inappropriate defaults** 
 So the sovereignty move isn't "transcend all defaults." It's:
 1. Know your $f_{\text{default}}$ landscape
 2. Track your $\lambda$ honestly  
-3. Only recruit $u$ when $\lambda \cdot ||u||^2 < \text{value of override}$
+3. Only recruit $u$ when $\lambda \cdot \mid\mid u\mid\mid^2 < \text{value of override}$
 
 This is **strategic automaticity**, not constant executive override.
 
