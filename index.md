@@ -390,7 +390,7 @@ This formalization gives physical units to your variables:
 | :--- | :--- | :--- |
 | **$e$ (Will)** | **$u(t)$** | The control signal. The magnitude of the override. |
 | **$m$ (Power)** | **$1/\lambda(t)$** | The metabolic "budget." When $m$ drops, the cost of control ($\lambda$) rises. |
-| **$c^2$ (Control)** | **$\mid\midu\mid\mid^2$** | The energetic price paid. It scales quadratically (or worse) with the intensity of the override. |
+| **$c^2$ (Control)** | **$\mid\mid u\mid\mid^2$** | The energetic price paid. It scales quadratically (or worse) with the intensity of the override. |
 
 ### The Takeaway for Short-Sellers
 
