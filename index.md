@@ -26,7 +26,7 @@ The unifying claim is simple and unfashionable:
 
 Much of human behavior—individual, institutional, historical—looks irrational only because we mistake *baseline operation* for *deliberate control*. The brain, like any bounded system, defaults to cheap dynamics. Override is possible, but it carries a cost that rises non-linearly with duration, precision, and resistance to habit. When resources tighten, control collapses first. Justice, restraint, and long-horizon reasoning are fragile achievements, not defaults.
 
-The **pfc** sequence treats this as a physics problem rather than a character flaw.
+The **pfc** sequence treats this as a physics problem rather than a character flaw ([beyond good & evil](https://www.gutenberg.org/files/4363/4363-h/4363-h.htm)).
 
 Across these pages, the prefrontal cortex is not romanticized as a seat of virtue, nor dismissed as epiphenomenal. It is modeled as a **control layer**: intermittently recruited, energetically costly, and decisive only when adequately powered. What matters is not its average share of energy, but the *marginal cost of resisting the grain*—the difference between letting a system run downhill and forcing it uphill.
 
