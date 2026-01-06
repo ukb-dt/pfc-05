@@ -61,6 +61,7 @@ What follows is not a manifesto. It is a set of lenses—some technical, some ph
 - [sj-00](https://ukb-dt.github.io/sj-00/)
 - [mirror](https://ukb-dt.github.io/mirror/)
 - [short-sellers-00](https://ukb-dt.github.io/short-sellers-00/)
+- [econ-00](https://ukb-dt.github.io/econ-00/)
 
 # 00-O
 Here is a **clean, defensible table** with **explicit percentages and ranges**, keeping uncertainty visible rather than hand-waved.
